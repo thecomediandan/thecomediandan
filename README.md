@@ -1,9 +1,13 @@
-### Hi there 👋
 
-<!--
-**thecomediandan/thecomediandan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi there! 👋</h1>
 
-Here are some ideas to get you started:
+<p>
+  <img src="https://cdn.pixabay.com/photo/2016/09/22/10/44/banner-1686943_640.jpg" width="100%">
+</p>
+
+---
+
+<h2 align="center">Never stop learning</h2>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +17,13 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+---
+
+<h2>Stack</h2>
+<p>
+  
+</p>
+
+---
+
