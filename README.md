@@ -2,7 +2,7 @@
 <h1 align="center">Hi there! 👋</h1>
 
 <p>
-  <img src="https://cdn.pixabay.com/photo/2016/09/22/10/44/banner-1686943_640.jpg" width="100%">
+  <img src="./portafolio.png" width="100%">
 </p>
 
 ---
